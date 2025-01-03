@@ -6,7 +6,7 @@
 
 [iOS AppStore](https://apps.apple.com/us/app/%E5%88%86%E6%95%B8%E4%B9%98%E6%B3%95/id1637371960)
 
-### 2. 放置數值 Place Value
+### 2. 數的位值 Place Value
 這個 Unity 專案主要在透過連結數的符號與圖形表徵，協助學生了解數的十進位系統，並進一步建立數的位值概念。
 
 [iOS AppStore](https://apps.apple.com/tw/app/%E6%95%B8%E7%9A%84%E4%BD%8D%E5%80%BC/id6469581995)
